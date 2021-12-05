@@ -8,6 +8,8 @@ O resultado final tem a seguinte aparência:
 
 ## Gerando o documento
 
+Os arquivos necessários para gerar o documento final são aqueles contidos na pasta `./main`. O resultado esperado é [o arquivo `folheto_de_casamento_GB_2019.pdf`](./folheto_de_casamento_GB_2019.pdf).
+
 Àqueles que quiserem gerar o documento localmente, indico que verifiquem se seu ambiente TeX local possui todos os pacotes importados [no preâmbulo](./main/preamble.tex).
 
-O procedimento mais rápido, na minha opinião, é "zipar" a pasta `./main` deste repositório e fazer upload para o [OverLeaf](www.overleaf.com). Dado que você fez uma conta (é gratuito), a compilação e geração do documento é imediata.
+No entanto, o procedimento mais rápido, na minha opinião, é "zipar" a pasta `./main` deste repositório e fazer upload para o [OverLeaf](www.overleaf.com). Dado que você fez uma conta (é gratuito), a compilação e geração do documento é imediata.
