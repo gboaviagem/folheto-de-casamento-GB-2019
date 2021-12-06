@@ -12,4 +12,4 @@ Os arquivos necessários para gerar o [documento final](./folheto_de_casamento_G
 
 Àqueles que quiserem gerar o documento localmente, indico que verifiquem se seu ambiente TeX local possui todos os pacotes importados [no preâmbulo](./main/preamble.tex).
 
-No entanto, o procedimento mais rápido, na minha opinião, é "zipar" a pasta `./main` deste repositório e fazer upload para o [OverLeaf](www.overleaf.com). Dado que você fez uma conta (é gratuito), a compilação e geração do documento é imediata.
+No entanto, o procedimento mais rápido, na minha opinião, é "zipar" a pasta `./main` deste repositório e fazer upload para o [OverLeaf](https://pt.overleaf.com/). Dado que você fez uma conta (é gratuito), a compilação e geração do documento é imediata.
